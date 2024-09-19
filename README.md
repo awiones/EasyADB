@@ -132,13 +132,16 @@ To install an APK on a connected device:
 
 ## Screenshots
 
-<div style="width: 100%; max-width: 400px; margin: auto;">
-  <img src="./preview.PNG" alt="Main Page Screenshot" style="width: 100%; height: auto; display: block;">
-</div>
+<img src="./preview.PNG" alt="EasyADB Menu" width="600">
 
 ## Contributing
 
-If you'd like to contribute to EasyADB, feel free to fork the repository and submit a pull request.
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please submit a pull request or open an issue.
+
+- **Fork the Repository**: Create a personal copy of the repository on GitHub.
+- **Make Changes**: Implement your changes and test them locally.
+- **Submit a Pull Request**: Describe your changes and submit a pull request for review.
+
 
 ## License
 
@@ -152,9 +155,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 With EasyADB, managing Android devices is now a breeze. Say goodbye to complicated command-line syntax and hello to simplicity. Just press a number and hit Enter!
-```
 
 ### Notes:
 - This version specifies that the tool is designed to work on Windows only.
 - Make sure to add the repository link in the "Installation" section.
 - Feel free to customize further if you want to include more details or instructions specific to your implementation.
+
+
+---
+
+Made with ❤️ by Awiones
