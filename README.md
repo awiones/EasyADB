@@ -132,7 +132,7 @@ To install an APK on a connected device:
 
 ## Screenshots
 
-<div style="width: 100%; max-width: 600px; margin: auto;">
+<div style="width: 100%; max-width: 400px; margin: auto;">
   <img src="./preview.PNG" alt="Main Page Screenshot" style="width: 100%; height: auto; display: block;">
 </div>
 
