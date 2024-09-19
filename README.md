@@ -1,5 +1,9 @@
 # EasyADB
 
+<p align="center">
+<img src="./logo.png" width="300px">
+</p>
+
 **EasyADB** is a command-line tool designed to simplify the use of Android Debug Bridge (ADB) commands. It provides a user-friendly interface where users can execute ADB commands without the need to remember complex syntax. With EasyADB, you can manage Android devices, apps, files, and more simply by selecting options from a menu.
 
 ## Why EasyADB?
@@ -128,7 +132,9 @@ To install an APK on a connected device:
 
 ## Screenshots
 
-_Include some screenshots here showing the different menu options and the easy-to-use interface._
+<div style="width: 100%; max-width: 600px; margin: auto;">
+  <img src="./preview.PNG" alt="Main Page Screenshot" style="width: 100%; height: auto; display: block;">
+</div>
 
 ## Contributing
 
