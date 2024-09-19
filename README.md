@@ -104,7 +104,7 @@ EasyADB includes a wide range of features organized into different sections:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/EasyADB.git
+git clone https://github.com/awiones/EasyADB.git
 ```
 2. Navigate to the project directory:
  ```bash
