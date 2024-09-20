@@ -12,7 +12,7 @@ Managing Android devices through ADB can be daunting for those who are not famil
 
 ## Note
 
-**This repository is designed to work on Windows only.** 
+**This code currently is designed to work on Windows only.** 
 
 ## Features
 
